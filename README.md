@@ -261,3 +261,7 @@ Here are some insights about how to modify the zotero-roam javascript:
 * Every time you change something, you need to reload the page to let the change happen (which is a bit annoying ... to be honest)
 
 If you have any questions, please leave a message in issue, and I will answer them as best as I could.
+
+The end result is something like this:
+![image](https://user-images.githubusercontent.com/26743576/112471761-93c3d000-8d6c-11eb-839e-4678db72f8ca.png)
+
